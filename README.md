@@ -7,5 +7,5 @@ O desafio 1.2 é o caso de teste DadoUmSegundoProdutoNoCarrinhoDeveValidarOsDado
 
 Há outros testes, que são etapas menores dos 2 testes do desafio.
 
-Desafio 2 foi criado no postman. O endereço https://documenter.getpostman.com/view/13051563/TVRkaoDi
+Desafio 2 foi criado no postman. O endereço é https://documenter.getpostman.com/view/13051563/TVRkaoDi.
 Coloquei na descrição de cada requisição o código necessário para rodar os testes.
